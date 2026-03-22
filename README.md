@@ -29,7 +29,7 @@ Most Shodan tools run one or two queries and dump raw results. ShodanX runs up t
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/shodanx](https://github.com/ShubhamGupta-VULNDETOX/ShodanX.git
+git clone https://github.com/ShubhamGupta-VULNDETOX/ShodanX.git
 cd ShodanX
 pip install shodan requests
 pip install mmh3   # optional — enables favicon hashing
